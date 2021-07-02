@@ -44,8 +44,8 @@ for(int i=0;i<size;i++)
 		
 		
 		
-		cout<<"value not found"<<endl;
-		break;
+		cout<<"Searching"<<endl;
+		//break;
 		
 	}
 

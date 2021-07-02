@@ -10,7 +10,6 @@ struct student
 
 };
 
-
 int main(){
 
 

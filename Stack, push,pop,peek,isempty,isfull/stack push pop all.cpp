@@ -105,10 +105,11 @@ push(3);
 push(4);
 push(10);
 displaystack();
-	
+cout<<"_____________________"<<endl;	
 pop();	
 pop();	
 pop();	
+displaystack();
 	
 	
 	

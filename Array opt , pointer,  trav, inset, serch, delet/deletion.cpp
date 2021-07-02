@@ -31,7 +31,7 @@ cout << "Enter the position \n";
 cin  >> pos;
    
 //Shift element from i+1 to i
-for(int i = pos-1; i < size; i++) 
+for(int i = pos; i < size; i++) 
 {
 arry[i] = arry[i+1];  
 
